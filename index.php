@@ -10,7 +10,7 @@
         comments
         */
         //single comment
-       echo "hello php";
+       echo "Hello PHP";
        echo '<br/>';
        echo 'Second Line';
        echo '<br/>';
