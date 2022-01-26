@@ -1,4 +1,4 @@
-<<?php 
+<?php 
     $title="Index";
     include 'includes/header.php'?>
     <!-- Basic HTML -->
